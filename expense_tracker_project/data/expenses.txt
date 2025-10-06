@@ -1,0 +1,52 @@
+[
+    {
+        "amount": 50.0,
+        "category": "food",
+        "date": "2025-09-18"
+    },
+    {
+        "amount": 100.0,
+        "category": "hobbies",
+        "date": "2025-09-18"
+    },
+    {
+        "amount": 50.0,
+        "category": "food",
+        "date": "2025-09-18"
+    },
+    {
+        "amount": 100.0,
+        "category": "hobbies",
+        "date": "2025-09-17"
+    },
+    {
+        "amount": 200.0,
+        "category": "stationary",
+        "date": "2025-09-16"
+    },
+    {
+        "amount": 50.0,
+        "category": "food",
+        "date": "2025-09-18"
+    },
+    {
+        "amount": 500.0,
+        "category": "clothes",
+        "date": "2025-09-15"
+    },
+    {
+        "amount": 700.0,
+        "category": "Groceries",
+        "date": "2025-09-15"
+    },
+    {
+        "amount": 1000.0,
+        "category": "stationary",
+        "date": "2025-09-09"
+    },
+    {
+        "amount": 100.0,
+        "category": "food",
+        "date": "2025-09-28"
+    }
+]

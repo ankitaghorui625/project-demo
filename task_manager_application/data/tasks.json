@@ -1,0 +1,22 @@
+[
+    {
+        "name": "practic dsa",
+        "description": "exam is coming",
+        "priority": "High"
+    },
+    {
+        "name": "walk dog",
+        "description": "after dinner",
+        "priority": "Medium"
+    },
+    {
+        "name": "study for an hour",
+        "description": "learn java",
+        "priority": "High"
+    },
+    {
+        "name": "eating dinner",
+        "description": "early",
+        "priority": "Medium"
+    }
+]
